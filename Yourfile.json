@@ -38,6 +38,11 @@
         "key": "Anik123",
         "expirydate": "25-03-2070",
         "Allowoffline": false
+    },
+     {   "device_id": "bd84dd976a1c6512",
+        "key": "SAEEM 2.0",
+        "expirydate": "25-03-2050",
+        "Allowoffline": false
     }
     
 ]
