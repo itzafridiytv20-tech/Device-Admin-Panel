@@ -73,7 +73,12 @@
         "key": "VANTA777",
         "expirydate": "25-03-2050",
         "Allowoffline": false
+    },
+    
+   {   "device_id": "5f4ff467b5e18638",
+        "key": "Afridi999",
+        "expirydate": "25-03-2050",
+        "Allowoffline": false
     }
-   
     
 ]
